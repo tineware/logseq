@@ -1,0 +1,31 @@
+- i would want the hashtag reference to automatically import the word here
+- #semantle (to make cards of)
+	- drupa
+	- concourse
+	- vestibule
+	- rotunda
+	- dictaphones
+	- insectarium
+	- terrasse
+	- firehall
+	- daubers
+	- naugahyde
+	- buttonholed
+	- pew
+	- imprinter
+	- ramada
+	- zocalo
+	- sukkah
+	- dais
+- quordle
+	- epoxy
+	- torus
+	- canny
+- sheikh
+- torque
+- eying
+- tripe
+- study
+- discipline
+- field
+-

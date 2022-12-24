@@ -1,0 +1,52 @@
+- #[[concepts to know]]
+	- alternative foundations to math
+		- intuitionistic type theory
+	- mathematical constructivism #[[philosophy]]
+	- russell's paradox (set theory type thing)
+	- mathematical logic
+	- set theory
+	- type theory
+	- category theory
+	- probability theory
+		- probability distributions
+			- univariate
+			- multivariate
+			- rnadom variable
+			- random vector
+			- sample space
+			- probability mass function
+			- probability density function
+			- binomial distribution
+			- hypergeometric distribytion
+			- normla distribution
+			- multivariate normal distirbution
+			- special distributions
+				- normal distribution
+				- bernoulli distribution
+				- binomial distribution
+				- negative binomial distribution
+				- geometric distirbution
+				- discrete uniform distribution
+				- continuous uniform distribution
+				- poisson distribution
+				- expoenntial distribution
+				- gamma distribution
+				- chi-squared distribution
+				- chi-squared test
+				- sample variance
+				- student's t distribution
+				- standard normal variable
+				- chi-squared variable
+				- beta distribution
+	- statistics vs mathematical statistics
+		- mathematical analysis
+		- linear algebra
+		- stochastic analysis
+		- differential equations
+		- measure theory
+- #[[people to know]]
+	- Per Erik Rutger Martin-Löf
+	- Anders Martin-Löf (1940), swedish physicist andprofessor in insurance mathematics & mathematical statistics
+- questions
+	- is logic a branch of mathematics, a branch of philosophy, or the intersection of the two?
+		-

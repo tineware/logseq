@@ -1,0 +1,6 @@
+- #[[concepts to know]]
+	-
+- #[[people to know]]
+	-
+- #poetry
+	- _the quiet world_ by jeffrey mcdaniel

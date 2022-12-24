@@ -1,0 +1,19 @@
+- [[architecture]]
+- [[computational linguistics]]
+- [[computer science]]
+- [[information]]
+- [[journalism]]
+- [[linguistics]]
+- [[literature]]
+- [[philosophy]]
+- [[physics]]
+- [[religion]]
+- [[sociology]]
+- [[math]]
+- [[wild animals identification]]
+- there are 10 topics
+- books
+	- Getting Things Done
+	  Book by David Allen #books
+	- Shit, Actually by Lindy West
+-

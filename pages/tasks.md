@@ -1,0 +1,81 @@
+- up next
+	- NOW study for cosi140b quiz
+	  :LOGBOOK:
+	  CLOCK: [2022-05-01 Sun 22:02:08]--[2022-05-01 Sun 22:02:19] =>  00:00:11
+	  CLOCK: [2022-05-01 Sun 22:02:19]
+	  :END:
+		- LATER topics
+			- LATER ml & linguistic data
+			- LATER corpus analysis & ling data characteristics
+			- LATER ml for cl / nlp
+			- LATER annotation tools & procedures
+				- LATER amr
+			- LATER annotation evals
+			- LATER case studies
+			- LATER alternative approaches (like crowdsourcing)
+		- LATER Lectures
+collapsed:: true
+			- LATER 1: overview
+			- LATER 2: statistical properties and the use of ‘raw’ language data
+			- LATER 3: data extraction from social media platforms
+			- LATER 4: annotation overview
+			- LATER 5: annotation cycle
+			- LATER 6: sentiment analysis
+			- LATER 7: phrase structure treebanks
+			- LATER 8: consistency checking in treebanking, sequence labeling
+			- LATER 9: universal dependencies
+			- LATER 10: phrase structure / dependency structure conversation
+			- LATER 11: annotation of semantic roles
+			- LATER 12: feature engineering for NLP tasks
+			- LATER 13: FrameNet and VerbNet
+			- LATER 14: Annotation tools and common data formats
+			- LATER 15: Measuring inter-annotator agreement
+			- LATER 16: Abstract Meaning Representation
+			- LATER 17: Crowdsourcing
+			- LATER 18: Crowdsourcing for simple tasks
+			- LATER 19: Complicated crowdsourcing projects
+			- LATER 21: Uniform Meaning Representation
+			- LATER 22: Penn Discourse TreeBank
+			-
+		-
+- inbox
+	- TODO send dad a birthday card
+	- TODO respond to jodi (or cancel)
+	- TODO internship search
+	- TODO return library books
+	- TODO meet with ryan's group
+	- TODO get covid test
+	- TODO follow up with sub-leaser
+	  :LOGBOOK:
+	  CLOCK: [2022-05-01 Sun 22:04:22]--[2022-05-01 Sun 22:04:22] =>  00:00:00
+	  :END:
+- projects
+	- DOING annotating for ryan's group
+	  :LOGBOOK:
+	  CLOCK: [2022-05-01 Sun 22:01:18]--[2022-05-01 Sun 22:01:42] =>  00:00:24
+	  CLOCK: [2022-05-01 Sun 22:01:43]--[2022-05-01 Sun 22:01:44] =>  00:00:01
+	  CLOCK: [2022-05-01 Sun 22:01:51]
+	  :END:
+- someday
+	- LATER put away laundry
+	- LATER organize stuff into 'take home' and 'leave here'
+	- LATER get blinds replaced in room
+	- LATER look for jobs
+	- LATER rework resume & get feedback
+	- LATER summarize what we've learned this year
+	- LATER start up bujo again.
+	- LATER set up exp / irl leveling system
+	- LATER write a goodbye letter to kate slader
+	- LATER write thank you to lotus
+	- LATER write friend letters
+	- LATER clean up old passwords.
+	- LATER delete accounts you no longer use
+	- LATER clean out apps you no logner use
+	- LATER figure out how to get back live photos from google photos
+- scheduled
+	- alex stevenson's chamber performance
+	  SCHEDULED: <2022-05-02 Mon 1900>
+	-
+- delegated
+	- WAITING annotations for our group
+	-

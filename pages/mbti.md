@@ -1,0 +1,3 @@
+- #enfp
+	- [15 Struggles Only ENFPs Will Understand](https://youtu.be/9TEawjD6Gyc)
+	-

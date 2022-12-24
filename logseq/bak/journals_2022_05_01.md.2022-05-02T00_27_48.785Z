@@ -1,0 +1,11 @@
+- brain - dump
+	- [*Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations*](https://aclanthology.org/P15-1014.pdf) -- Fei Sun, Jiafeng Guo, Yanyan Lan, Jun Xu, and Xueqi Cheng (2015)
+		- __abstract__:
+		  "...we argue that it is beneficial to jointly
+		  modeling both [syntagmatic and paradigmatic] relations so that we can... encode different types of linguistic properties... also boost
+		  the representation learning...between these two types of relations. We propose two novel distributional models for word representation... The proposed models are trained on a public
+		  Wikipedia corpus, and the learned representations are evaluated on word analogy and word similarity tasks. The results demonstrate that the proposed models can perform significantly better than
+		  all the state-of-the-art baseline methods on
+		  both tasks."
+		- __results__:
+		  "...our PDC model still performs significantly better than these state-of-the-art methods (p-value < 0.01), especially with smaller vector dimensionality. More interestingly, by only training on 1 billion words, our models can outperform the GloVe model which is trained on 6 billion words."

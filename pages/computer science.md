@@ -1,0 +1,39 @@
+- #[[concepts to know]]
+	- #[[machine learning]] logistic regression
+		- model selection
+	- #[[programming languages]]
+	- #[[formal semantics]]
+	- #[[type theory]]
+	- #[[turing completeness]]
+	- models of computation
+		- turing machine
+		- lambda calculus
+		- combinatory logic
+		- mu-recursive functions
+		- markov algorithm
+		- register machine
+	- p vs np problem
+	- type theory
+	- metaprogramming
+	- programming paradigms
+	- hardware
+	- computer systems organization
+	- networks
+	- software organization
+	- software notations and tools
+	- software development
+	- theory of computation
+	- algorithms
+	- mathematics of computing
+	- information systems
+	- secuirty
+	- human-computer interaction
+	- concurrency
+	- artificial intelligence
+	- graphics
+	- applied computing
+	- modal selection
+	-
+- #[[people to know]]
+	- bertrand russell
+	- alan turing

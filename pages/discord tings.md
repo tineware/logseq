@@ -1,0 +1,5 @@
+- [webhooks](https://discord.com/developers/docs/resources/webhook)
+	- json application biulding
+	- HTTP POST
+- bots
+-

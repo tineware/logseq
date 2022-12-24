@@ -1,0 +1,16 @@
+- who i am
+	- professional
+		- [[research interests]]
+	- personal
+		- college
+		- family
+		- relationship
+		- [[vocab]]
+- timeline of impt experiences
+- why i started the second brain
+- [[my principles]]
+- [[my principles / positions]]
+- OBVIOUSLY I can't just mad libs this copy-pasta and say i've figured myself out. i just needed somewhere to start.
+- [[tasks]]
+- [[ADHD]]
+- [[personality]]

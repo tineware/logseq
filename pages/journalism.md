@@ -1,0 +1,3 @@
+- #[[concepts to know]]
+	- segnal
+- #[[people to know]]

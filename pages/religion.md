@@ -1,0 +1,8 @@
+- religions
+	- catholicism
+		- papal infallibility in matters of Faith
+	- protestantism
+	- mormonism
+	- evangelical
+	- christian scientist
+	-

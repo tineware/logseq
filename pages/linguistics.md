@@ -1,0 +1,133 @@
+- #[[concepts to know]]
+	- formal semantics (natural language) (following wikipedia hierarchy)
+collapsed:: true
+		- central concepts
+			- compositionality
+			- denotation
+			- entailment
+			- extension
+			- generalized quantifier
+			- intension
+			- logical form
+			- presupposition
+			- proposition
+			- reference
+			- scope
+			- speech act
+			- syntax-sematnics interface
+			- truth conditions
+		- topics
+			- areas
+				- anaphora
+				- ambiguity
+				- binding
+				- conditionals
+				- definiteness
+				- disjunction
+				- evidentiality
+				- focus
+				- indexicality
+				- lexical semantics
+				- modality
+				- negation
+				- propositonal attitudes
+				- tense-aspect-mood
+				- quanitification
+				- vagueness
+			- phenomena
+				- antecedent-contained deletion
+				- cataphora
+				- coercion
+				- conservativity
+				- counterfactuals
+				- cumulativity
+				- de dict and de re
+				- de se
+				- deontic modality
+				- discourse relations
+				- donkey anaphora
+				- epistemic modality
+				- faultless disagreement
+				- free choice inferences
+				- givenness
+				- crossover effects
+				- hurford disjunction
+				- inalienable possession
+				- intersective modificaiton
+				- logophoricity
+				- mirativity
+				- modal subordination
+				- negative polarity items
+				- opaque contexts
+				- performatives
+				- privative adjectives
+				- quantiificational variability effect
+				- responsive predicate
+				- rising declaratives
+				- scalar implicature
+				- sloppy identity
+				- subsective modification
+				- subtrigging
+				- telicity
+				- temperature paradox
+				- veridicality
+				-
+		- formalism
+			- formal systems
+				- alternative sematnics
+				- categoric grammar
+				- combinatory categorial grammar
+				- discourse representation theory
+				- dynamic semantics
+				- frame semantics
+				- generative grammar
+				- glue semantics
+				- inquisitive semantics
+				- intensional logic
+				- lambda calculus
+				- mereology
+				- montague grammar
+				- segmeneted discourse representation theory
+				- situations emantics
+				- supervaluationism
+				- type theory
+				- ttr
+			- concepts
+				- autonomy of syntax
+				- context set
+				- continuation
+				- conversational scoreboard
+				- existential closure
+				- function application
+				- meaning postulate
+				- monads
+				- possible world
+				- quanitifier raising
+				- quanitization
+				- question under discussion
+				- squiggle operator
+				- strict conditional
+				- tyep shifter
+				- universal grinder
+		- see also
+			- cognitive semantics
+			- computational semantics
+			- distributional semantics
+			- formal grammar
+			- inferentailism
+			- linguistics wars
+			- philosophy of language
+			- pragmatics (context + deixis)
+			- semantics of logic
+	- narratology
+		- [the living handbook of narratology](https://www.lhn.uni-hamburg.de/node/43.html)
+		- narrative leels
+		- metalepsis
+		- fictionality
+		- narrative ethics
+		- unreliability
+		- computational narrative
+			- [computational narrative, and what we can learn from narratology (septemeber 2015)](http://www.cs.columbia.edu/~ouyangj/JessicaOuyang_candidacy.pdf) by jessica ouyang #lectures
+			- [narrative theory for computatonal narrative udnerstanding (september 2021)](https://txtlab.org/2021/09/narrative-theory-for-computational-narrative-understanding/) by andrew piper, richard jean so, david bamman
+- #[[people to know]]
+-

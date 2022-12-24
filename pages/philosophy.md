@@ -1,0 +1,36 @@
+- #[[concepts to know]]
+  id:: 626f2c04-8b2c-4ea9-b12a-9f4919618ee5
+	- [new atheism](https://en.wikipedia.org/wiki/New_Atheism)
+	- paradox vs contradiction
+		- The name "paradox" should not be confused with contradiction. A contradiction in a formal theory is a formal proof of an absurdity inside the theory (such as 2 + 2 = 5), showing that this theory is inconsistent and must be rejected. But a paradox may be either a surprising but true result in a given formal theory, or an informal argument leading to a contradiction, so that a candidate theory, if it is to be formalized, must disallow at least one of its steps; in this case the problem is to find a satisfying theory without contradiction. Both meanings may apply if the formalized version of the argument forms the proof of a surprising truth. For instance, Russell's paradox may be expressed as "there is no set of all sets" (except in some marginal axiomatic set theories).
+	- logic
+		- philosophical logic vs mathematical logic
+		- intensional logic
+			- intensions
+			- extensions, extensionality
+			- sense
+			- reference
+		- intentional logic
+		- predicate logic
+		- first-order logic
+		- modal logic
+		- type-theoretical intensional logic
+		- deduction
+		- induction
+		- epistemic #vocab
+		- husserl: logic and math differ in objects of study, not the sensible objects themselves
+			- logic is a formal theory of jdugement, studying apriori relations using meanign cateogries
+			- math is formal ontology and stuides all possible forms of being of objects
+			- problems:
+				- this approach includes both formal categories and and abstractions from sensibility
+				- categorial abstraction #math
+				- eidetic reduction or essential intuition
+	- reasoning
+	- arguments
+	- math
+	-
+- #[[people to know]]
+	- sam harris
+	- edmund husserl (1859-1938), german
+	- franz clemens honoratus hermann josef brentano (1838-1917), german
+	- friedrich ludwig gottlob frege (1848-1925), german

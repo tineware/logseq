@@ -1,0 +1,4 @@
+- [[computational narratology]]
+- distributional systems
+- social categories
+-

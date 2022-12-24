@@ -1,0 +1,10 @@
+- descriptive statistics
+- data colelction
+- statistical inference
+- correlation
+- regression analysis
+- categorical / multivariate / time-series / surivival analysis
+- applications
+- missing data
+- expectation-maximization algorithm
+- expoenntial family
