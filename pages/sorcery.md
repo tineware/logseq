@@ -1,0 +1,2 @@
+- the ultimate manipulation of magical energies that access the true source of magic itself & Non-Corporeal Energy foundation of reality
+- power of our own pure thought consciousness trapped within our brain
