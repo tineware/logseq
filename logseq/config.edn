@@ -169,7 +169,7 @@
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? true
  :graph/settings {:journal? true, :builtin-pages? false}
- :zotero/settings-v2 {"default" {:type-id "9980733", :zotero-linked-attachment-base-directory "", :attachments-block-text "[[Attachments]]", :include-attachments? true, :page-insert-prefix "@"}}
+ :zotero/settings-v2 {"default" {:type-id "9980733", :zotero-linked-attachment-base-directory "", :attachments-block-text "[[Attachments]]", :include-attachments? true, :page-insert-prefix "@", :extra-tags "papers"}}
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
