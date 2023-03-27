@@ -2,12 +2,9 @@
 - ((63acca68-5005-45b3-8e75-2023469498cd))
 -
 - [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
-  
-  Make a [Feature Request](https://discuss.logseq.com/)
-  
-  [Check us out on Github](https://github.com/logseq/logseq)
-  
-  [Contribute to Our Docs](https://github.com/logseq/docs)
+- Make a [Feature Request](https://discuss.logseq.com/)
+- [Check us out on Github](https://github.com/logseq/logseq)
+- [Contribute to Our Docs](https://github.com/logseq/docs)
   
   💬
   
