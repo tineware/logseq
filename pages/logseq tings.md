@@ -1,4 +1,6 @@
 - [[quick guide]]
+- ((63acca68-5005-45b3-8e75-2023469498cd))
+-
 - [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
   
   Make a [Feature Request](https://discuss.logseq.com/)
@@ -30,9 +32,9 @@
 		- https://discuss.logseq.com/t/query-for-all-todos-grouped-by-tag/1442
 	- logseq calendar https://dynalist.io/d/ao7N0QbfJfDiZ_dNRnW4PI9_
 	- resonance calendar from queries https://discuss.logseq.com/t/advanced-queries-creating-a-resonance-calendar-from-queries/2351/2
+	- ((63acc7bc-a5d6-4936-b13f-d60e12de01c0))
 - queries
 - templates
-  collapsed:: true
 	- https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/
 	- write a query using the properties and display the result as a table https://twitter.com/logseq/status/1308953181389385728
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974

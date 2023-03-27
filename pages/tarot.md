@@ -1,0 +1,11 @@
+- #cartomancy
+- #witchcraft
+- #[[the star]]
+  id:: 63abb6bb-11a1-4f50-b042-8b432dfc86fb
+	- upright
+	- reverse
+		- loss of faith in career, work
+		- loss of faith in self
+		- loss of faith in universe
+		- test: crumble like the tower or become stronger
+		- realign your daily with your goals

@@ -1,0 +1,3 @@
+- #[[about the first brain]]
+- #wizardry
+-

@@ -1,0 +1,16 @@
+- data structures
+	- array
+	- queue
+	- linked list
+	- doubly linked list
+	- set
+	- tree
+	- hashmap
+- algorithms
+	- searches
+	- smth else
+- inheritance
+- polymorphism
+- debugging
+- style & syntax
+-
