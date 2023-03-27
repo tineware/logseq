@@ -1,17 +1,13 @@
 - [[quick guide]]
 - ((63acca68-5005-45b3-8e75-2023469498cd))
--
-- [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
-- Make a [Feature Request](https://discuss.logseq.com/)
-- [Check us out on Github](https://github.com/logseq/logseq)
-- [Contribute to Our Docs](https://github.com/logseq/docs)
-  
-  💬
-  
-  Message us on [Discord](https://discord.gg/KpN4eHY) (We love feedback!)
-  
-  Ask questions in the [forum](https://discuss.logseq.com)
-  Tweet us [@logseq](https://twitter.com/logseq)
+- contact logseq community for help
+	- [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
+	- Make a [Feature Request](https://discuss.logseq.com/)
+	- [Check us out on Github](https://github.com/logseq/logseq)
+	- [Contribute to Our Docs](https://github.com/logseq/docs)
+	- 💬 Message us on [Discord](https://discord.gg/KpN4eHY) (We love feedback!)
+	- Ask questions in the [forum](https://discuss.logseq.com)
+	- Tweet us [@logseq](https://twitter.com/logseq)
 - workflow
   collapsed:: true
 	- https://discuss.logseq.com/t/my-logseq-workflow/2278?u=luhmann
