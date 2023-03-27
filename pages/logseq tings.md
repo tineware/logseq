@@ -1,6 +1,7 @@
 - [[quick guide]]
 - ((63acca68-5005-45b3-8e75-2023469498cd))
 - contact logseq community for help
+  collapsed:: true
 	- [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
 	- Make a [Feature Request](https://discuss.logseq.com/)
 	- [Check us out on Github](https://github.com/logseq/logseq)
