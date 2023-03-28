@@ -29,6 +29,7 @@
 	- ((63acc7bc-a5d6-4936-b13f-d60e12de01c0))
 - queries
 - templates
+  collapsed:: true
 	- https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/
 	- write a query using the properties and display the result as a table https://twitter.com/logseq/status/1308953181389385728
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
