@@ -1,3 +1,6 @@
+-
 - assassination attempt by boba fett
 	- shapeshifter assassin
+	- killer worms
+	- count dooku gains support of the trade federation
 	-
