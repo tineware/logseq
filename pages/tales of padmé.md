@@ -1,11 +1,14 @@
 - canonical timeline
-  collapsed:: true
-	- assassination attempt by boba fett
-	  collapsed:: true
-		- shapeshifter assassin
-		- killer worms
-		- count dooku gains support of the trade federation
+	- episode i
 		-
+	- episode ii
+		- assassination attempt by boba fett
+		  collapsed:: true
+			- shapeshifter assassin
+			- killer worms
+			- count dooku gains support of the trade federation
+			-
+	- episode iii
 - proposed tales
 	- ties into obi-wan kenobi show.
 	- campaigning for election, nomination
