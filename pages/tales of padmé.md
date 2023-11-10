@@ -37,14 +37,18 @@
 	- prophecy, destiny, fate
 - affiliations
 	- galactic republic
+	- royal house of naboo
+	- imperial senate
 - relationships
 	- family
 		- parents
 		- siblings
 		- cousins
 		- in laws
-	- anakin skywalker
-		- looking at him like a little boy. bossing him around. intimidating him.
+		- anakin skywalker
+			- looking at him like a little boy. bossing him around. intimidating him.
+		- children
+		-
 	- darth vader
 	- palpatine
 	- mace windu
