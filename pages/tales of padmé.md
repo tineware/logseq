@@ -1,4 +1,9 @@
--
+- canonical timeline
+- proposed tales
+	- election, nomination
+	- secret wedding
+	- attaining r2
+	-
 - assassination attempt by boba fett
 	- shapeshifter assassin
 	- killer worms
