@@ -31,6 +31,11 @@
 	- political chameleon, duplicity, mystery, deception, dualities
 	- prophecy, destiny, fate
 - relationships
+	- family
+		- parents
+		- siblings
+		- cousins
+		- in laws
 	- anakin skywalker
 		- looking at him like a little boy. bossing him around. intimidating him.
 	- darth vader
