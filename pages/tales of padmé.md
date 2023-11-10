@@ -32,7 +32,7 @@
 	- midi-chloridians
 	- pregnancy
 	- deciding names
-	-
+	- hello there
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
@@ -60,6 +60,7 @@
 	- friends
 		- mace windu
 		- obi wan kenobi
+			- hello there
 		- ahsoka tano
 		- body doubles
 		- handmaidens
