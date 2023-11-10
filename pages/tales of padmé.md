@@ -11,7 +11,10 @@
 			-
 	- episode iii
 		- 27 years old
-	-
+	- 32 BBY - 22 BBY: padme amidala trilogy
+		- queen's shadow
+		- queen's peril
+		- queen's hope
 - proposed tales
 	- ties into obi-wan kenobi show.
 	- campaigning for election, nomination
@@ -73,4 +76,5 @@
 - locations
 	- coruscant
 	- naboo
+	- tatooine
 - "she was worth fighting for"
