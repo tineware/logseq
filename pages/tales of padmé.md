@@ -7,8 +7,8 @@
 		- count dooku gains support of the trade federation
 		-
 - proposed tales
-	-
-	- election, nomination
+	- ties into obi-wan kenobi show.
+	- campaigning for election, nomination
 	- secret wedding
 	- attaining r2
 	- clothing, presentation, pr training
