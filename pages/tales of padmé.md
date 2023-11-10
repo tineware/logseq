@@ -7,6 +7,7 @@
 		- count dooku gains support of the trade federation
 		-
 - proposed tales
+	-
 	- election, nomination
 	- secret wedding
 	- attaining r2
@@ -27,6 +28,7 @@
 	- public service and self-sacrifice
 	- pacifist at war
 	- "modern Amazon", using "aggressive negotiations"
+	- political chameleon, duplicity, mystery, deception, dualities
 	-
 - relationships
 	- anakin skywalker
