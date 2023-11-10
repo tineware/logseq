@@ -29,7 +29,7 @@
 	- pacifist at war
 	- "modern Amazon", using "aggressive negotiations"
 	- political chameleon, duplicity, mystery, deception, dualities
-	- prophecy
+	- prophecy, destiny, fate
 - relationships
 	- anakin skywalker
 		- looking at him like a little boy. bossing him around. intimidating him.
