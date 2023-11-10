@@ -29,7 +29,7 @@
 	- pacifist at war
 	- "modern Amazon", using "aggressive negotiations"
 	- political chameleon, duplicity, mystery, deception, dualities
-	-
+	- prophecy
 - relationships
 	- anakin skywalker
 		- looking at him like a little boy. bossing him around. intimidating him.
@@ -44,4 +44,4 @@
 - locations
 	- coruscant
 	- naboo
-	-
+- "she was worth fighting for"
