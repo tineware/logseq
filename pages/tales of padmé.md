@@ -14,6 +14,7 @@
 - proposed tales
 	- ties into obi-wan kenobi show.
 	- campaigning for election, nomination
+	- coronation to naboo
 	- secret wedding
 	- attaining r2
 	- clothing, presentation, pr training
@@ -27,6 +28,7 @@
 	- developing soft spot for "rogue" pilots
 	- activism in naboo
 	- learning martial arts
+	- when liberty dies
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
@@ -56,6 +58,7 @@
 		- obi wan kenobi
 		- ahsoka tano
 		- body doubles
+		- handmaidens
 	- mon mothma
 	- aurra sing
 	- asajj ventress
