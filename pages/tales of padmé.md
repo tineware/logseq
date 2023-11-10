@@ -32,7 +32,7 @@
 	- midi-chloridians
 	- pregnancy
 	- deciding names
-	- hello there
+	- her own name. padme amidala naberrie
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
