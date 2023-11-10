@@ -48,13 +48,14 @@
 		- anakin skywalker
 			- looking at him like a little boy. bossing him around. intimidating him.
 		- children
-		-
-	- darth vader
-	- palpatine
-	- mace windu
-	- obi wan kenobi
-	- ahsoka tano
-	- body doubles
+	- enemies
+		- darth vader
+		- palpatine
+	- friends
+		- mace windu
+		- obi wan kenobi
+		- ahsoka tano
+		- body doubles
 	- mon mothma
 	- aurra sing
 	- asajj ventress
