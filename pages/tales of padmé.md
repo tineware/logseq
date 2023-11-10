@@ -1,7 +1,8 @@
 - canonical timeline
 	- episode i
-		-
+		- 14 years old
 	- episode ii
+		- 25 years old
 		- assassination attempt by boba fett
 		  collapsed:: true
 			- shapeshifter assassin
@@ -9,6 +10,7 @@
 			- count dooku gains support of the trade federation
 			-
 	- episode iii
+		- 27 years old
 - proposed tales
 	- ties into obi-wan kenobi show.
 	- campaigning for election, nomination
