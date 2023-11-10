@@ -35,6 +35,8 @@
 	- "modern Amazon", using "aggressive negotiations"
 	- political chameleon, duplicity, mystery, deception, dualities
 	- prophecy, destiny, fate
+- affiliations
+	- galactic republic
 - relationships
 	- family
 		- parents
