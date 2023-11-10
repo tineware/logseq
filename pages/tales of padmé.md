@@ -19,6 +19,7 @@
 	- meeting bail organa, traveling to alderaan
 	- the link between padme and leia.
 	- developing soft spot for "rogue" pilots
+	- activism in naboo
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
