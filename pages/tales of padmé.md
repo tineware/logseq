@@ -46,6 +46,7 @@
 	- body doubles
 	- mon mothma
 	- aurra sing
+	- asajj ventress
 - locations
 	- coruscant
 	- naboo
