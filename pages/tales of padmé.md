@@ -41,5 +41,7 @@
 	- body doubles
 	- mon mothma
 	- aurra sing
-	-
+- locations
+	- coruscant
+	- naboo
 	-
