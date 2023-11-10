@@ -25,7 +25,7 @@
 	- romanticism
 - relationships
 	- anakin skywalker
-		- looking at him like a little boy.
+		- looking at him like a little boy. bossing him around. intimidating him.
 	- darth vader
 	- palpatine
 	- mace windu
