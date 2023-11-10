@@ -29,6 +29,10 @@
 	- activism in naboo
 	- learning martial arts
 	- when liberty dies
+	- midi-chloridians
+	- pregnancy
+	- deciding names
+	-
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
