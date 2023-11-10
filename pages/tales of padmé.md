@@ -15,7 +15,8 @@
 	- ties into obi-wan kenobi show.
 	- campaigning for election, nomination
 	- coronation to naboo
-	- secret wedding
+	- secret wedding. what she imagined weddings to be like. parents wedding.
+	- being a bridesmaid. relationships gone awry
 	- attaining r2
 	- clothing, presentation, pr training
 	- firearm training
