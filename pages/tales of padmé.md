@@ -20,12 +20,14 @@
 	- the link between padme and leia.
 	- developing soft spot for "rogue" pilots
 	- activism in naboo
+	- learning martial arts
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
 	- public service and self-sacrifice
 	- pacifist at war
 	- "modern Amazon", using "aggressive negotiations"
+	-
 - relationships
 	- anakin skywalker
 		- looking at him like a little boy. bossing him around. intimidating him.
@@ -35,4 +37,7 @@
 	- obi wan kenobi
 	- ahsoka tano
 	- body doubles
+	- mon mothma
+	- aurra sing
+	-
 	-
