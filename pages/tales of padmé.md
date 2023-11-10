@@ -23,4 +23,13 @@
 - themes
 	- references to shakespeare, ophelia
 	- romanticism
+- relationships
+	- anakin skywalker
+		- looking at him like a little boy.
+	- darth vader
+	- palpatine
+	- mace windu
+	- obi wan kenobi
+	- ahsoka tano
+	- body doubles
 	-
