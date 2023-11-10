@@ -17,4 +17,4 @@
 	- learning to fly. race stints. elusive maneuvers
 	- visitors to her grave
 	- meeting bail organa, traveling to alderaan
-	-
+	- the link between padme and leia.
