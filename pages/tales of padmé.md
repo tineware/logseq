@@ -60,10 +60,11 @@
 	- friends
 		- mace windu
 		- obi wan kenobi
-			- hello there
+			- hello there -- general kenobi!
 		- ahsoka tano
 		- body doubles
 		- handmaidens
+		- sabe: my hands are yours.
 	- mon mothma
 	- aurra sing
 	- asajj ventress
