@@ -13,4 +13,7 @@
 	- clothing, presentation, pr training
 	- firearm training
 	- thoughts of the jedi council
+	- becoming fascinated with history
+	- learning to fly. race stints. elusive maneuvers
+	- visitors to her grave
 	-
