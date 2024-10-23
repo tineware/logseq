@@ -9,7 +9,7 @@
  ;; Preferred workflow style.
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
@@ -166,10 +166,13 @@
 
  :ref/linked-references-collapsed-threshold 50
  :favorites ["tasks" "topics" "about the first brain" "quick guide" "logseq tings"]
- :file/name-format :triple-lowbar
+ :file/name-format :legacy
  :feature/enable-whiteboards? true
  :graph/settings {:journal? true, :builtin-pages? false}
- :zotero/settings-v2 {"default" {:type-id "tinelib"}}
+ :zotero/settings-v2 {"default" {}}
+ :journal/page-title-format "yyyy年MM月dd日"
+ :editor/preferred-pasting-file? true
+ :editor/logical-outdenting? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
