@@ -1,0 +1,13 @@
+- prompt engineer
+	- [what is a prompt engineer](https://www.careervillage.org/questions/695018/what-is-a-prompt-engineer-should-i-list-chatgpt-skill-on-my-resume)
+	- [chatgpt prompts for job search](https://www.reddit.com/r/ChatGPT/comments/15dwp01/put_together_every_chatgpt_prompt_i_use_in_job/)
+	- [chatgpt prompts for job search 2](https://careercenter.utsa.edu/blog/2024/04/10/chatgpt-prompts-for-career-exploration/)
+	- [clickup: ai prompts for career development plan](https://clickup.com/templates/ai-prompts/career-development-plan)
+	- [chatgpt prompts for recruiting](https://www.occupop.com/blog/how-to-use-chatgpt-in-recruitment-10-sample-use-cases)
+	- [chatgpt prompts for career development plan 2](https://resources.workable.com/tutorial/how-to-use-chatgpt-to-make-a-career-development-plan-with-prompts)
+	-
+	-
+- E-book producer #publishing
+	- [Junior Ebook Producer @ W. W. Norton]( https://wwnorton.atsondemand.com/#/jobDescription/887052/Junior Ebook Producer)
+	- [Ebook Producer @ W. W. Norton](https://wwnorton.atsondemand.com/#/jobDescription/883011/Ebook Producer)
+	- [conversation started to look at skills required and how to develop](https://chatgpt.com/c/6723d1c5-e284-8002-9bb0-aaed291a5247)

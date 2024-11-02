@@ -1,0 +1,41 @@
+title:: my principles / positions
+
+- definitions
+	- logic: tool? foolproof?
+	- math: tool? invention? discovery?
+	- did these come from philosophy?
+- current events
+	- johnny depp v. amber heard
+	- breonna taylor
+	- kyle rittenhouse
+	- gamestop short squeeze
+	- roe v. wade overturn
+- politics
+	- the state of political discourse
+	- affirmative action
+	- diversity
+	- global warming
+	- the green new deal
+	- immigration
+	- illegal immigration
+	- international trade agreements
+	- reparations
+	- social justice
+	- systemic racism
+	- voting
+	- ideologies
+		- alt-right
+		- capitalism
+		- libertarianism
+		- populism
+		- socialism / communism
+		- fascism
+		- 'omniliberalism'
+		- technocracy
+- philosophy
+	- my foundational beliefs
+	- violence
+	- public vs private humor
+	- incest
+	- child pornography
+	-
