@@ -4,16 +4,13 @@
 .ls-block {
 	font-family: "Playwrite GB S";
 	font-weight: 400 !important;
-	
 }
-.editor-inner .uniline-block {
-	font-family: "VT323";
-  	font-weight: 400 !important;
-} 
-.editor-inner .multiline-block {
-	font-family: "Playwrite GB S";
-  	font-weight: 400 !important;
-} 
+
+.page-title,
+
+.editor-inner textarea {
+	font-family: "Playwrite GB S" !important;
+}
 
 function main () {
   logseq.provideStyle(`
