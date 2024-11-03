@@ -77,6 +77,7 @@
 	- Embedded block
 	- Tag
 	- Page reference
+	- /highlight
 	-
 	- #[[to sort]]
 		- https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/32

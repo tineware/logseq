@@ -1,10 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=VT323');
+@import url('https://fonts.googleapis.com/css2?family=Itim');
 
-.ls-block {
-	font-family: "Playwrite GB S";
-	font-weight: 400 !important;
+/** not sure what this does yet 
+can this be modified to globally adjust styling?
+	- fonts sizes
+	- line height
+	- justification
+can fonts be locally hosted?
+**/
+:root {
+  /* what does this refer to? */
+  --ls-font-family: Playwrite GB S, VT323, Helvetica Neue, Itim;
+  --ls-line-height: 1.75;
+  line-height: var(--ls-line-height);
+
 }
+
+.ls-block { /* body text */
+	font-family: Playwrite GB S;
+	font-weight: 400 !important;
+
+}
+.ls-block h1 { /* header 1 text */
+  	font-family: Itim;
+    font-size: 120%;
+    margin: 1px;
+
+}
+.ls-block h2 { /* header 2 text */
+  	font-family: Itim;
+    font-size: 116%;
+}
+.ls-block h3 { /* header 3 text */
+    font-family: Itim;
+    font-size: 112%;
+}
+.ls-block h4 { /* header 4 text */
+    font-family: Itim;
+    font-size: 112%;
+}
+.ls-block h5 { /* header 5 text */
+    font-family: Itim;
+    font-size: 112%;
+}
+
+/** how many headers can one have?
+can font style be changed mid-block according to bold or italics?
+can font style be changed to create underlines?
+what is the shortcut for strikeout text?
+can logseq handle sub- and superscripts?**/
+
 .editor-inner textarea {
 	font-family: "Playwrite GB S" !important;
 }
@@ -31,10 +77,12 @@ html[data-theme=light] {
 	--mark-decoration-grey: ;
 	--mark-decoration-orange: ;
 	--mark-decoration-purple: ;
+  
+  	/*options */
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ;
+	--mark-border-radius: ; /* what is "rem"*/
 }
 .dark-theme,
 html[data-theme=dark] {  
@@ -46,6 +94,7 @@ html[data-theme=dark] {
 	--mark-grey: #cacfd9;
 	--mark-orange: #ffb86c;
 	--mark-purple: #d2b3ff;
+  
 	--mark-decoration-yellow: ;
 	--mark-decoration-pink: ;
 	--mark-decoration-blue: ;
@@ -54,10 +103,11 @@ html[data-theme=dark] {
 	--mark-decoration-grey: ;
 	--mark-decoration-orange: ;
 	--mark-decoration-purple: ;
+  
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ;
+	--mark-border-radius: ; /* what is "rem"*/
 }
       mark.yellow{
 	background-color: var(--mark-yellow);
@@ -168,4 +218,4 @@ html[data-theme=dark] {
 }
  
 // bootstrap
-logseq.ready(main).catch(console.error
+logseq.ready(main).catch(console.error)
