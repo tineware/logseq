@@ -14,18 +14,19 @@ can fonts be locally hosted?
   --ls-font-family: Playwrite GB S, VT323, Helvetica Neue, Itim;
   --ls-line-height: 1.75;
   line-height: var(--ls-line-height);
+
 }
 
 .ls-block { /* body text */
 	font-family: Playwrite GB S;
 	font-weight: 400 !important;
-  	line-height: var(--ls-line-height);
+
 }
 .ls-block h1 { /* header 1 text */
   	font-family: Itim;
     font-size: 120%;
     margin: 1px;
-    line-height: var(--ls-line-height);
+
 }
 .ls-block h2 { /* header 2 text */
   	font-family: Itim;
@@ -79,7 +80,7 @@ html[data-theme=light] {
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ;
+	--mark-border-radius: ; /* what is "rem"*/
 }
 .dark-theme,
 html[data-theme=dark] {  
@@ -102,7 +103,7 @@ html[data-theme=dark] {
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ;
+	--mark-border-radius: ; /* what is "rem"*/
 }
       mark.yellow{
 	background-color: var(--mark-yellow);

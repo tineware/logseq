@@ -36,6 +36,7 @@
 - keyboard shortcuts (custom and defaults)
 	- `Shift + Cmd + R` — Settings
 	- `Ctrl + Shift + R` — Restart
+	- `Cmd + Shift + h` — highlight selected text or highlight text entered between wrappers
 	- #[[to sort]]
 	  collapsed:: true
 		- https://discuss.logseq.com/t/keyboard-navigations-shortcuts/366
@@ -61,8 +62,10 @@
 	  background-color:: green
 	- Highlight 5
 	  background-color:: blue
-	- Highlight 6 h
+	- Highlight 6
 	  background-color:: purple
+	- Highlight 7
+	  background-color:: gray
 	- Normal text
 	- *Italic text*
 	- **Bold text**
