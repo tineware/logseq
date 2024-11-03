@@ -57,10 +57,9 @@ can logseq handle sub- and superscripts?**/
 
 function main () {
   logseq.provideStyle(`
-
+  
 .white-theme,
 html[data-theme=light] {
-  	/* background colours */
 	--mark-yellow: #fff3a3;
 	--mark-pink: #f2b3cf;
 	--mark-blue: #b5d3ff;
@@ -70,7 +69,6 @@ html[data-theme=light] {
 	--mark-orange: #ffb86c;
 	--mark-purple: #d2b3ff;
 	
-  	/* decoration colors */
 	--mark-decoration-yellow: ;
 	--mark-decoration-pink: ;
 	--mark-decoration-blue: ;
@@ -79,16 +77,15 @@ html[data-theme=light] {
 	--mark-decoration-grey: ;
 	--mark-decoration-orange: ;
 	--mark-decoration-purple: ;
-  
-  	/*options */
+
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ; /* what is "rem"*/
+	--mark-border-radius: ;
 }
+
 .dark-theme,
-html[data-theme=dark] {
-  	/* background colours */
+html[data-theme=dark] {  
 	--mark-yellow: #fff3a3;
 	--mark-pink: #f2b3cf;
 	--mark-blue: #b5d3ff;
@@ -97,8 +94,7 @@ html[data-theme=dark] {
 	--mark-grey: #cacfd9;
 	--mark-orange: #ffb86c;
 	--mark-purple: #d2b3ff;
-  
-  	/* decoration colours*/
+
 	--mark-decoration-yellow: ;
 	--mark-decoration-pink: ;
 	--mark-decoration-blue: ;
@@ -107,13 +103,13 @@ html[data-theme=dark] {
 	--mark-decoration-grey: ;
 	--mark-decoration-orange: ;
 	--mark-decoration-purple: ;
-  	
-  	/* options */
+
 	--mark-text-color: ;
 	--mark-decoration: ;
 	--mark-thickness: ;
-	--mark-border-radius: ; /* what is "rem"*/
+	--mark-border-radius: ;
 }
+
       mark.yellow{
 	background-color: var(--mark-yellow);
 	color: var(--mark-text-color);
@@ -186,6 +182,7 @@ html[data-theme=dark] {
 	text-decoration-skip-ink: none;
 	border-radius: var(--mark-border-radius);
 }
+
   `)
 
   logseq.Editor.registerSlashCommand("Yellow Highlighter", [
@@ -221,6 +218,7 @@ html[data-theme=dark] {
   ])
 
 }
+
  
 // bootstrap
 logseq.ready(main).catch(console.error)

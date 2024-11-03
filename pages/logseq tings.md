@@ -47,37 +47,44 @@
 		  https://discuss.logseq.com/t/keyboard-shortcut-customization-guide/416
 		  https://discuss.logseq.com/t/how-to-shift-down-or-shift-up-to-select-the-next-line-in-a-long-block/1310
 - styling
-	- # Header Level 1
-	- ## Header Level 2
-	- ### Header Level 3
-	- #### Header Level 4
-	- ##### Header Level 5
-	- Highlight 1
-	  background-color:: yellow
-	- Highlight 2
-	  background-color:: red
-	- Highlight 3
-	  background-color:: pink
-	- Highlight 4
-	  background-color:: green
-	- Highlight 5
-	  background-color:: blue
-	- Highlight 6
-	  background-color:: purple
-	- Highlight 7
-	  background-color:: gray
-	- Normal text
-	- *Italic text*
-	- **Bold text**
-	- Underlined text
-	- Strikeout text
-	- Ligatures enabled? => --> -> <== ===
-	- Reference block
-	- Hyperlink
-	- Embedded block
-	- Tag
-	- Page reference
-	- /highlight
+	- global config.edn
+	- config.edn
+		- custom macros
+		- custom commands
+			- https://discuss.logseq.com/t/macros-and-commands-lets-share/9565/23
+	- custom.css
+		- # Header Level 1
+		- ## Header Level 2
+		- ### Header Level 3
+		- #### Header Level 4
+		- ##### Header Level 5
+		- Highlight 1
+		  background-color:: yellow
+		- Highlight 2
+		  background-color:: red
+		- Highlight 3
+		  background-color:: pink
+		- Highlight 4
+		  background-color:: green
+		- Highlight 5
+		  background-color:: blue
+		- Highlight 6
+		  background-color:: purple
+		- Highlight 7
+		  background-color:: gray
+		- Normal text
+		- *Italic text*
+		- **Bold text**
+		- Underlined text
+		- Strikeout text
+		- Ligatures enabled? => --> -> <== ===
+		- Reference block
+		- Hyperlink
+		- Embedded block
+		- Tag
+		- Page reference
+		- /highlight
+	- export.css
 	-
 	- #[[to sort]]
 		- https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/32
