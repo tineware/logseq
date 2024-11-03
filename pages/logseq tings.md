@@ -51,7 +51,7 @@
 	- config.edn
 		- custom macros
 		- custom commands
-			- https://discuss.logseq.com/t/macros-and-commands-lets-share/9565/23
+			-
 	- custom.css
 		- # Header Level 1
 		- ## Header Level 2

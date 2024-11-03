@@ -142,7 +142,11 @@
  ;; Add your own commands to speedup.
  ;; E.g. [["js" "Javascript"]]
  :commands
- []
+ [
+  ["Yellow Highlighter                                           [Yellow Highlighter]"
+      [[:editor/input "<mark class='yellow></mark>" {:backward-pos 7}]] 
+  ],
+ ]
 
  ;; Macros replace texts and will make you more productive.
  ;; For example:
@@ -168,7 +172,8 @@
  :favorites ["DASHBOARD" "tasks" "topics" "about the first brain" "quick guide" "logseq tings"]
  :file/name-format :triple-lowbar
  :feature/enable-whiteboards? true
- :graph/settings {:journal? true, :builtin-pages? false}
+ :graph/settings {:journal? true
+ :builtin-pages? false}
  :zotero/settings-v2 {"default" {}}
  :journal/page-title-format "yyyy年MM月dd日"
  :editor/preferred-pasting-file? false
