@@ -1,5 +1,4 @@
 - [[quick guide]]
-- ((63acca68-5005-45b3-8e75-2023469498cd))
 - contact logseq community for help
   collapsed:: true
 	- [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
@@ -35,7 +34,8 @@
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
 	-
 - keyboard shortcuts (custom and defaults)
-  collapsed:: true
+	- `Shift + Cmd + R` — Settings
+	- `Ctrl + Shift + R` — Restart
 	- https://discuss.logseq.com/t/keyboard-navigations-shortcuts/366
 	  https://discuss.logseq.com/t/customizable-keyboard-shortcuts/146/26
 	  https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/36
@@ -45,9 +45,39 @@
 	  https://discuss.logseq.com/t/how-to-shift-down-or-shift-up-to-select-the-next-line-in-a-long-block/1310
 - styling
   collapsed:: true
-	- https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/32
-	- https://discuss.logseq.com/t/doc-mode-on-a-per-bullet-basis/3080
-	- https://www.reddit.com/r/ObsidianMD/comments/qvwnp3/how_do_you_personally_decide_when_something/
+	- # Header Level 1
+	- ## Header Level 2
+	- ### Header Level 3
+	- #### Header Level 4
+	- ##### Header Level 5
+	- Highlight 1
+	  background-color:: yellow
+	- Highlight 2
+	  background-color:: red
+	- Highlight 3
+	  background-color:: pink
+	- Highlight 4
+	  background-color:: green
+	- Highlight 5
+	  background-color:: blue
+	- Highlight 6
+	  background-color:: purple
+	- Normal text
+	- *Italic text*
+	- **Bold text**
+	- Underlined text
+	- Strikeout text
+	- Ligatures enabled? => --> -> <== ===
+	- Reference block
+	- Hyperlink
+	- Embedded block
+	- Tag
+	- Page reference
+	-
+	- #[[to sort]]
+		- https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/32
+		- https://discuss.logseq.com/t/doc-mode-on-a-per-bullet-basis/3080
+		- https://www.reddit.com/r/ObsidianMD/comments/qvwnp3/how_do_you_personally_decide_when_something/
 - sidebar
   collapsed:: true
 	- contents? https://discuss.logseq.com/t/toggle-shortcut-for-table-of-contents/3147

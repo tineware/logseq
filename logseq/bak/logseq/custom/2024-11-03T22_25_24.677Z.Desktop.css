@@ -1,18 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=VT323');
+@import url('https://fonts.googleapis.com/css2?family=Itim');
+
+:root {
+  --ls-font-family: Playwrite GB S, VT323, Helvetica Neue, Itim;
+}
+
+
 
 .ls-block {
-	font-family: "Playwrite GB S";
+	font-family: Playwrite GB S;
 	font-weight: 400 !important;
 }
-.editor-inner .uniline-block {
-	font-family: "VT323";
-  	font-weight: 400 !important;
-} 
-.editor-inner .multiline-block {
-	font-family: "Playwrite GB S";
-  	font-weight: 400 !important;
-} 
+.ls-block h1{
+  	font-family: Itim;
+    font-size: 120%;
+    margin: 1px;
+}
+.ls-block h2{
+    font-size: 116%;
+}
+.ls-block h3{
+    font-size: 112%;
+}
+
+.editor-inner textarea {
+	font-family: "Playwrite GB S" !important;
+}
 
 function main () {
   logseq.provideStyle(`
