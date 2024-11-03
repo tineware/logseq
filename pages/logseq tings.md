@@ -36,15 +36,16 @@
 - keyboard shortcuts (custom and defaults)
 	- `Shift + Cmd + R` — Settings
 	- `Ctrl + Shift + R` — Restart
-	- https://discuss.logseq.com/t/keyboard-navigations-shortcuts/366
-	  https://discuss.logseq.com/t/customizable-keyboard-shortcuts/146/26
-	  https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/36
-	  https://discuss.logseq.com/t/vim-mode-powerful-shortcuts/275
-	  https://discuss.logseq.com/t/missing-navigation-shortcuts/5769
-	  https://discuss.logseq.com/t/keyboard-shortcut-customization-guide/416
-	  https://discuss.logseq.com/t/how-to-shift-down-or-shift-up-to-select-the-next-line-in-a-long-block/1310
+	- #[[to sort]]
+	  collapsed:: true
+		- https://discuss.logseq.com/t/keyboard-navigations-shortcuts/366
+		  https://discuss.logseq.com/t/customizable-keyboard-shortcuts/146/26
+		  https://discuss.logseq.com/t/allow-non-outline-freeform-text/172/36
+		  https://discuss.logseq.com/t/vim-mode-powerful-shortcuts/275
+		  https://discuss.logseq.com/t/missing-navigation-shortcuts/5769
+		  https://discuss.logseq.com/t/keyboard-shortcut-customization-guide/416
+		  https://discuss.logseq.com/t/how-to-shift-down-or-shift-up-to-select-the-next-line-in-a-long-block/1310
 - styling
-  collapsed:: true
 	- # Header Level 1
 	- ## Header Level 2
 	- ### Header Level 3
@@ -60,7 +61,7 @@
 	  background-color:: green
 	- Highlight 5
 	  background-color:: blue
-	- Highlight 6
+	- Highlight 6 h
 	  background-color:: purple
 	- Normal text
 	- *Italic text*
