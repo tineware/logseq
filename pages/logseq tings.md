@@ -32,8 +32,11 @@
 	- https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/
 	- write a query using the properties and display the result as a table https://twitter.com/logseq/status/1308953181389385728
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
+	- [Logseq Customisations for Project Management Template](https://mgw.dumatics.com/logseq-customisation-for-project-management-teamplate/)
+	-
 	-
 - keyboard shortcuts (custom and defaults)
+  collapsed:: true
 	- `Shift + Cmd + R` — Settings
 	- `Ctrl + Shift + R` — Restart
 	- `Cmd + Shift + h` — highlight selected text or highlight text entered between wrappers
@@ -51,6 +54,7 @@
 	- config.edn
 		- custom macros
 		- custom commands
+			- [How to write custom slash commands](https://nithinbekal.com/posts/logseq-slash-commands/)
 			-
 	- custom.css
 		- # Header Level 1
@@ -83,7 +87,8 @@
 		- Embedded block
 		- Tag
 		- Page reference
-		- /highlight
+		- examples
+			- https://github.com/cannibalox/logseq-custom-files
 	- export.css
 	-
 	- #[[to sort]]
@@ -137,12 +142,15 @@
   collapsed:: true
 	- https://discuss.logseq.com/t/plugin-to-automatically-generate-reminders-for-events-deadlines-etc/1233
 - pages: collections of blocks; allow for bidirectional connections
+	- [JavaScript Mini-Apps](https://discuss.logseq.com/t/turn-your-pages-into-interactive-applications-javascript-mini-apps-input-output-no-persistent-state/60640) #JavaScript
 	- https://discuss.logseq.com/t/difference-between-pages-pages-and-using-ui-to-create-a-page-with-heading-pages/5484/2
 	- https://discuss.logseq.com/t/convert-block-to-a-page/649/25
 - links to external sites
+  collapsed:: true
 	- It's also possible to link to pages outside of Logseq, i.e. websites. To point to a URL, either use the trigger menu by typing `/link` or use the keyboard shortcut `Cmd-l` (macOS)/`Ctrl-l` (Windows) to add the following shortcode to the block: `[]()`. Between the brackets (`[ ]`), put the label (name) of the link. Between the parenthesis, put the URL:
 		- `[This is the label or name of the link](https://thisistheurl.com)`
 - aliases
+  collapsed:: true
 	- Apart from linking to pages outside of Logseq, you can also use the alias function to link to an internal page. This is handy for when you want to show a different label for an internal link. For example, `[I worked on projects]([[Projects]])` will make the entire "I worked on projects" sentence clickable and point it to the *Projects* page.
 	- Finally, for aliases that you use often it's best to add a page alias. For example, you might want the link `[[PKM]]` to point to the page `Personal Knowledge Management`. To do this, add the following in the **first block** of the page `Personal Knowledge Management`: `alias:: PKM`
 	- Now, anytime you click a `[[PKM]]` link, you'll end up on the `Personal Knowledge Management` page.
