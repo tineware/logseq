@@ -1,7 +1,7 @@
 - [[architecture]]
 - [[computational linguistics]]
 - [[computer science]]
-- [[information]]
+- [[information studies]]
 - [[journalism]]
 - [[linguistics]]
 - [[literature]]
