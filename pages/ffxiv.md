@@ -1,0 +1,7 @@
+- steam deck?
+- [[Etheb Ansatz]]
+- [[Sohcahtoa Ansatz]]
+- [[Ani Skywalker]]
+- Jasmine Saenarae
+- Kyrie Erezen
+-
