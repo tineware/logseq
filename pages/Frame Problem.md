@@ -1,0 +1,1 @@
+- Description: describes an issue with using first-order logic to express facts about a robot in the world, representing the state of a robot with traditional FOL requires many axioms (symbollic language) to imply things about the environment that
