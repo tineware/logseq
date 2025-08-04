@@ -1,1 +1,37 @@
+- **Definition**: An approach to #AI pioneered in the 1980s by [[Rodney Brooks]] at [[MIT]]
+- **Core Philosophy**: Produce robots with intelligence levels similar to insects, where intelligence emerges from simple behaviors interacting with the real world
+- **Key Principle**: "The world is its own best model" - systems refer continuously to sensors rather than internal world models
+- ### Key Differences from Classical AI
+- **Classical AI** ([[Symbolic AI]]): Used internal symbolic representations of the world (like robots [[Shakey]] and [[Freddy]])
+	- Required constant updating of internal models
+	- Slow processing due to complex planning programs
+	- Suffered from the [[Frame Problem]]
+- **Nouvelle AI**: No internal world models, processes external information as needed through sensors
+- ### Core Concepts
+- **Emergent Behavior**: Simple behaviors (like "move forward" + "avoid obstacles") combine to create complex behaviors (like "chase moving object")
+- **[[Embodied Intelligence]]**: AI situated in the real world with physical sensors, not just abstract thinking
+- **Bottom-up Approach**: Intelligence emerges from interaction rather than pre-programmed knowledge
+- ### Notable Robots by [[Rodney Brooks]]
+- **Allen**: Ring of 12 ultrasonic sonars, avoided stationary and moving objects
+- **Herbert**: Used infrared sensors and laser systems, collected empty soda cans in MIT offices using 15 simple behavior units
+- **Genghis**: Six-legged robot that walked over rough terrain and followed humans
+- **Squirt**: Stayed in dark corners until hearing noise, then followed the sound source
+- **[[Cog]]** (1990s): Humanoid robot project with [[Lynn Andrea Stein]], aimed at human-level intelligence through organic learning (ceased development by 2003)
+- ### Philosophical Inspiration
+- Drew from [[Alan Turing]]'s 1948-1950 writings about "situated" approach
+- Turing's idea: equip machines with good sensors and teach them like children
+- Contrasted with abstract activities like chess playing
+- ### Key Insight from [[Herbert Simon]]
+- An ant's complicated path results from environmental structure, not complex thought processes
+- Complexity can emerge from simple rules interacting with complex environments
+- ### Evolution of the Approach
+- Initially focused on insect-level intelligence
+- Later Brooks pursued human-level intelligence with the Cog project
+- Questioned whether insect-level behavior was sufficient goal for nouvelle AI
+- ### Related Concepts
+- [[Frame Problem]]
+- [[Collision Avoidance]]
+- [[Behavior-Based Robotics]]
+- [[Emergent Intelligence]]
+- [[Sensor Fusion]]
 -
