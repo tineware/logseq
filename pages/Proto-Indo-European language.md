@@ -1,0 +1,3 @@
+- Description: reconstructed common ancestor of the Indo-European languages.
+- this has been more developed than any other proto-language of its age
+-

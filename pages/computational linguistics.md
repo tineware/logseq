@@ -6,4 +6,28 @@
 - #[[people to know]]
 	-
 - #### Related fields
--
+- Acquisition
+- Anthropological
+- Applied
+- Mathematical
+- Conversation analysis
+- Corpus linguistics
+- Discourse analysis
+- Determinism
+- Distance
+- Documentation
+- Ethnography of communication
+- [[Ethnomethodology]]
+- Forensic
+- history of [[linguistics]]
+- interlinguisitics
+- neurolinguisitics
+- philology
+- philosophy of langauge
+- phonetics
+- psycholinguistics
+- sociolinguisitics
+- text
+- translating and interpreting
+- writing systems
+- reconstruction
