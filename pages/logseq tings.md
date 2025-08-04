@@ -40,28 +40,29 @@
 	- write a query using the properties and display the result as a table https://twitter.com/logseq/status/1308953181389385728
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
 	- [Logseq Customisations for Project Management Template](https://mgw.dumatics.com/logseq-customisation-for-project-management-teamplate/)\
-	- # {{title}}
-	- ## What is it?
-	- **Quick summary**:
-	- **Key insight**:
-	- ## Why does this matter for my work?
-	- **CV/Face Recognition**:
-	- **Conversational AI**:
-	- **Robotics**:
-	- **Tools/frameworks I use**:
-	- ## Connections
-	- **People**: [[]] [[]]
-	- **Related concepts**: [[]] [[]]
-	- **Part of larger topic**: [[]]
-	- ## Quick notes
-	-
-	- ---
-	  
-	  *Source*:
-	  *Date*: {{date}}
-	  *Type*: {{renderer :select, concept, person, paper, tool, technique, framework}}
-	  
-	  <!--EndFragment-->
+	- Template for general encyclopedia strategy
+	  template:: Balanced note template
+	  template-including-parent:: false
+		- {{title}}
+		- **What is it?**
+			- **Quick summary:**
+			- **Key insight:**
+		- **Why does this matter for my work?**
+			- **CV/Face Recognition**:
+			- **Conversational AI**:
+			- **Robotics:**
+			- **Tools/frameworks I use:**
+		- **Connections**
+			- **People**: [[]] [[]]
+			- **Related concepts**: [[]] [[]]
+			- **Part of a larger topic:** [[]]
+		- **Quick notes**
+			- blank
+			- blank
+		- ---
+		  *Source*:
+		  *Date*: {{date}}
+		  *Type*: {{renderer :select, concept, person, paper, tool, technique, framework}}
 	-
 	-
 - keyboard shortcuts (custom and defaults)
