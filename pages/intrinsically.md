@@ -1,0 +1,2 @@
+- adv.
+- in an essential or natural way
