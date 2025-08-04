@@ -1,0 +1,2 @@
+- experienced the [[AI Winter]]
+- warned the business community that enthusiasm for AI had spiraled out of control, creating a chain reaction similar to the spread of the "nuclear winter"

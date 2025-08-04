@@ -41,7 +41,7 @@
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
 	- [Logseq Customisations for Project Management Template](https://mgw.dumatics.com/logseq-customisation-for-project-management-teamplate/)\
 	- Template for general encyclopedia strategy
-	  template:: Balanced note template
+	  template:: Basic note template
 	  template-including-parent:: false
 		- {{title}}
 		- **What is it?**

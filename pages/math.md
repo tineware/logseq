@@ -50,3 +50,15 @@
 - questions
 	- is logic a branch of mathematics, a branch of philosophy, or the intersection of the two?
 		-
+- #### **Relationship with other fields**:
+- [[physics]]
+- [[chemistry]]
+- [[geosciences]]
+- [[biology]]
+- [[linguistics]]
+- [[economics]]
+- [[philosophy]]
+- [[education]]
+- [[computational mathematics]]
+-
+-
