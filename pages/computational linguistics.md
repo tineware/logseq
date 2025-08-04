@@ -2,6 +2,8 @@
 	- syntagmatic and paradigmatic relations
 		- [*Learning Word Representations by Jointly Modeling Syntagmatic and Paradigmatic Relations*](https://aclanthology.org/P15-1014.pdf) -- Fei Sun, Jiafeng Guo, Yanyan Lan, Jun Xu, and Xueqi Cheng (2015) #papers
 	- [[computational narratology]]
+	-
 - #[[people to know]]
 	-
+- #### Related fields
 -
