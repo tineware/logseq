@@ -60,5 +60,8 @@
 - [[philosophy]]
 - [[education]]
 - [[computational mathematics]]
+- [[computational science]]
+- [[computer science]]
+-
 -
 -
