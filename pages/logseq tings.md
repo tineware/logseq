@@ -1,4 +1,10 @@
 - [[quick guide]]
+- ## In LogSeq specifically
+- LogSeq is built on block-based thinking where indentation creates parent-child relationships
+- Indenting content under headers creates actual structural connections in your knowledge graph
+- Non-indented headers become "orphaned" blocks that don't build hierarchical relationships
+- LogSeq's blcok references allow users to get the full context hierarchy whenever a block is referenced.
+-
 - contact logseq community for help
   collapsed:: true
 	- [Self Hosting Logseq](https://github.com/dustinlacewell/logseq-guide)
@@ -26,9 +32,10 @@
 	- logseq calendar https://dynalist.io/d/ao7N0QbfJfDiZ_dNRnW4PI9_
 	- resonance calendar from queries https://discuss.logseq.com/t/advanced-queries-creating-a-resonance-calendar-from-queries/2351/2
 	- ((63acc7bc-a5d6-4936-b13f-d60e12de01c0))
-- queries
+- ### queries
+- can target specific levels of hierarchy.
+-
 - templates
-  collapsed:: true
 	- https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/
 	- write a query using the properties and display the result as a table https://twitter.com/logseq/status/1308953181389385728
 	- table creation interface https://discuss.logseq.com/t/table-creation-interface-not-query-table/1974
@@ -50,6 +57,8 @@
 		  https://discuss.logseq.com/t/keyboard-shortcut-customization-guide/416
 		  https://discuss.logseq.com/t/how-to-shift-down-or-shift-up-to-select-the-next-line-in-a-long-block/1310
 - styling
+	- headers are just visual organization
+	- indentation under headers is optional and mainly for visual hierarchy
 	- global config.edn
 	- config.edn
 		- custom macros
