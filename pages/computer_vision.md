@@ -2,4 +2,8 @@
 - OpenCV
 - MJPEGStreamer
 - YOLO
+- visual transformers
+- convolutional neural networks
+- building in scratch torch tools
+- facial recognition
 -
