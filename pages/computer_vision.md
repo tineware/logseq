@@ -6,4 +6,4 @@
 - convolutional neural networks
 - building in scratch torch tools
 - facial recognition
--
+- slack
